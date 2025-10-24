@@ -8,7 +8,7 @@ https://foodresturantsite.netlify.app/
 
 Installation & Setup
 1. Clone the repository
-git clone https://github.com/AKUSAbeysinghe/Food_And_Resturant.git
+[git clone https://github.com/AKUSAbeysinghe/Food_And_Resturant.git](https://github.com/AKUSAbeysinghe/Culinary_Site)
 
 2. Navigate into the project directory
 cd client
